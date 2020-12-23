@@ -2,7 +2,7 @@
 
 ## Un pò di info
 writeups laboratori [hacker101 CTF](https://ctf.hacker101.com/) con una breve spiegazione presa dai miei appunti.
-panoramica su [hacker101 guida](https://www.hackerone.com/for-hackers/hacker-101)
+\npanoramica su [hacker101 guida](https://www.hackerone.com/for-hackers/hacker-101)
 
 ## Tabella writeups
 
