@@ -1,8 +1,9 @@
 # hacker101-writeups
 
 ## Un pò di info
-+ panoramica su [hacker101](https://www.hackerone.com/for-hackers/hacker-101)
-+ writeups laboratori [hacker101 CTF](https://ctf.hacker101.com/) con una breve spiegazione presa dai miei appunti.
++ Panoramica su [hacker101](https://www.hackerone.com/for-hackers/hacker-101)
++ Writeups laboratori [hacker101 CTF](https://ctf.hacker101.com/) con una breve spiegazione presa dai miei appunti.
++ *QUESTA NON E' UNA GUIDA, RIPORTO SOLO I MIEI APPUNTI E MI FA PIACERE CONDIVIDERLI CON LA COMMUNITY*
 
 ## Tabella writeups
 
