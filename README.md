@@ -1,8 +1,8 @@
 # hacker101-writeups
 
 ## Un pò di info
-+ Panoramica su [hacker101 CTF](https://www.hackerone.com/for-hackers/hacker-101)
-+ Link laboratori [hacker101 CTF](https://ctf.hacker101.com/) 
++ Panoramica su [hacker101 CTF cos'è?](https://www.hackerone.com/for-hackers/hacker-101)
++ Link laboratori [hacker101 CTF laboratori](https://ctf.hacker101.com/) 
 + Bisogna iscriversi su [hackerone.com](https://www.hackerone.com/) per loggare sulla piattaforma.
 + *QUESTA NON E' UNA GUIDA, RIPORTO SOLO LA MIA ESPERIENZA CON I LABS E PROVVEDERO' A OFFUSCARE LE FLAGS* :)
 + Chiunque è libero di correggere grammatica,stile e baggianate che scriverò.
