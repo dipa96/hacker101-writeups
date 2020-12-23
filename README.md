@@ -3,7 +3,8 @@
 ## Un pò di info
 + Panoramica su [hacker101](https://www.hackerone.com/for-hackers/hacker-101)
 + Writeups laboratori [hacker101 CTF](https://ctf.hacker101.com/) con una breve spiegazione presa dai miei appunti.
-+ *QUESTA NON E' UNA GUIDA, RIPORTO SOLO LA MIA ESPERIENZA CON I LABs E PROVVEDERO' A OFFUSCARE LE FLAGs*
++ *QUESTA NON E' UNA GUIDA, RIPORTO SOLO LA MIA ESPERIENZA CON I LABs E PROVVEDERO' A OFFUSCARE LE FLAGs* :)
++ Chiunque è libero di correggere grammatica,stile e baggianate che scriverò.
 
 ## Tabella writeups
 
@@ -16,4 +17,3 @@
 
 ## ToDo
 + iniziare  :)
-
