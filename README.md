@@ -10,6 +10,7 @@ writeups laboratori [hacker101 CTF](https://ctf.hacker101.com/) con una breve sp
 | [A little something to get you started][link]  | Trivial (1 / flag)                                | Web          | 1 / 1    |
 | [Micro-CMS v1][link]                           | Easy (2 / flag)                                   | Web          | 4 / 4    |
 | [Micro-CMS v2][link]                           | Moderate (3 / flag)                               | Web          | 3 / 3    |
+| [Encrypted Pastebin][link]                     | Hard (9 / flag)                                   | Enc Pastebin | 0 / 4    |
 
 ## ToDo
 + iniziare  :)
