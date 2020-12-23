@@ -7,7 +7,7 @@
 + *QUESTA NON E' UNA GUIDA, RIPORTO SOLO LA MIA ESPERIENZA CON I LABS E PROVVEDERO' A OFFUSCARE LE FLAGS* :)
 + Chiunque è libero di correggere grammatica,stile e baggianate che scriverò.
 
-## Tabella writeups
+## Lista laboratori 
 
 | Nome                                           | Difficoltà                                        | Ambito       | Progesso |
 | ---------------------------------------------- | ------------------------------------------------- | ------------ | -------- |
