@@ -22,4 +22,4 @@
 | BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    |
 
 ## ToDo
-[checkbox:unchecked]
+ [checkbox:checked]
