@@ -23,5 +23,5 @@
 
 ## ToDo
    * [x] iniziare
-   * [ ] scripts in python o Go per autopwn labs hacker101 CTF
+   * [ ] scripts in python o Go per automatizzare cattura flags nei labs hacker101 CTF
    * [ ] README.MD to PDF
