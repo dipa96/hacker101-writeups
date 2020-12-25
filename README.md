@@ -24,4 +24,5 @@
 ## ToDo
    * [x] iniziare
    * [ ] scripts in python o Go per automatizzare cattura flags nei labs hacker101 CTF
+   * [ ] traduzione multilingua
    * [ ] README.MD to PDF
