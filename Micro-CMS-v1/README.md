@@ -23,3 +23,19 @@ Stesso ragionamento e flag trovata.
 + crea nuova pagina e inserisci payload xss nel titolo, poi ritorna su home
 
 ![picture](imgs/4.png)
+
+## flag3
+
++ bottone presente in una pagina
+
+![picture](imgs/5.png)
+
++ "Markdown is supported, but scripts are not" , posso creare un payload usufruendo del tag button e dell'event onclick
+
+![picture](imgs/6.png)
+
++ <button onclick=alert(1)>pentestingmadesimple</button>
+
++ non appare nessuna flags, cercare nel codice sorgente della pagina
+
+![picture](imgs/7.png)
