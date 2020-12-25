@@ -22,4 +22,5 @@
 | BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    |
 
 ## ToDo
-+ iniziare  :)
+- [ X ] iniziare :)
+- [ ] Spostare da README.MD a PDF
