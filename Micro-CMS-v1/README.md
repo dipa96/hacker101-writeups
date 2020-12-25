@@ -34,7 +34,7 @@ Stesso ragionamento e flag trovata.
 
 ![picture](imgs/6.png)
 
-+ <button onclick=alert(1)>pentestingmadesimple</button>
++ `<button onclick=alert(1)>pentestingmadesimple</button>`
 
 + non appare nessuna flags, cercare nel codice sorgente della pagina
 
