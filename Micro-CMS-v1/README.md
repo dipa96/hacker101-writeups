@@ -36,6 +36,6 @@ Stesso ragionamento e flag trovata.
 
 + `<button onclick=alert(1)>pentestingmadesimple</button>`
 
-+ non appare nessuna flags, cercare nel codice sorgente della pagina
++ non appare nessuna flag, cercare nel codice sorgente della pagina
 
 ![picture](imgs/7.png)
