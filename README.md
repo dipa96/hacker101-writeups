@@ -22,4 +22,5 @@
 | BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    |
 
 ## ToDo
- [checkbox:checked]
+   * [ x ] iniziare
+   * [ ] README.MD to PDF
