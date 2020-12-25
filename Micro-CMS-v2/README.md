@@ -2,7 +2,7 @@
 
 ## flag0
 
-+Creare nuova pagina, viene chiesto login
++ Creare nuova pagina, viene chiesto login
 
 + admin:admin => 'Unknown user'
 
