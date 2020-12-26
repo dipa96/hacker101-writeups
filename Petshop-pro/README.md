@@ -23,7 +23,7 @@
 + burpsuite intruder
 ![picture](imgs/2.jpg)
 
-+ options di intruder
++ options di intruder</br>
 ![picture](imgs/3.jpg)
 
 + risultato aspettato ( username e password sono sempre diversi)
@@ -32,7 +32,6 @@
 + ripetere stesso procedimento per la password ma togliere grep a "Invalid password" e guardare per status code 302 (redirect a login avvenuto con successo)
 
 + bagno di umiltà
-
 ![picture](imgs/5.jpg)
 
 + Io ho usato questa wordlist sia per username che per password, non è la prima volta che questa wordlist si rivela utile.
