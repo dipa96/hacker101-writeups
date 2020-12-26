@@ -16,7 +16,7 @@
 | Micro-CMS v2                                   | Moderate (3 / flag)                               | Web          | 3 / 3    |
 | Photo Gallery                                  | Moderate (6 / flag)                               | Web          | 2 / 3    |
 | Postbook	                                     | Easy (4 / flag)	                                 | Web          | 7 / 7    |
-| Petshop Pro	                                   | Easy (3 / flag)		                               | Web          | 1 / 3    |
+| Petshop Pro	                                   | Easy (3 / flag)		                               | Web          | 3 / 3    |
 | TempImage	                                     | Moderate (5 / flag)		                           | Web          | 1 / 2    |
 | BugDB v1	                                     | Easy (2 / flag)		                               | Web, GraphQL | 1 / 1    |
 | BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    |
