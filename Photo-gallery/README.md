@@ -20,6 +20,6 @@
 
 + [sqlmap](https://github.com/sqlmapproject/sqlmap)
 
-+ ![picture](imgs/2.png)
++ ![picture](imgs/3.png)
 
 # flag2
