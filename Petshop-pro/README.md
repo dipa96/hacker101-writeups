@@ -4,7 +4,7 @@
 
 + Hint: It's always nice to get free stuff
 
-+ type="hidden" => type="" esce prompt
++ in source code: type="hidden" cambiato in type="" esce prompt
 
 + settare valori del prezzo a 0 o 0.0 e procedere al checkout.
 
