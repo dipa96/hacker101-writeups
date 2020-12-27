@@ -20,8 +20,18 @@
 
 + [sqlmap](https://github.com/sqlmapproject/sqlmap)
 
-+ ![picture](imgs/3.png)
+![picture](imgs/3.png)
 
 # flag2
 
-+ work in progress
++ Hint : That method of finding the size of an album seems suspicious
+
++ in 'main.py' `SELECT filename FROM photos WHERE id=%s'` && ` 'Space used: ' + subprocess.check_output('du -ch %s || exit 0'` 
+
+![picture](imgs/4.png)
+
++ Hint : Stacked queries rarely work. But when they do, make absolutely sure that you're committed
+
++ [commit sql](https://stackoverflow.com/questions/16259428/mysql-command-line-and-transactions)
+
++ 
