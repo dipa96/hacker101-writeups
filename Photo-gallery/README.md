@@ -34,4 +34,4 @@
 
 + [commit sql](https://stackoverflow.com/questions/16259428/mysql-command-line-and-transactions)
 
-+ 
++ work in progress...
