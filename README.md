@@ -18,8 +18,8 @@
 | Postbook	                                     | Easy (4 / flag)	                                 | Web          | 7 / 7    | NO       |
 | Petshop Pro	                                   | Easy (3 / flag)		                               | Web          | 3 / 3    | SI       |
 | TempImage	                                     | Moderate (5 / flag)		                           | Web          | 1 / 2    | NO       |
-| BugDB v1	                                     | Easy (2 / flag)		                               | Web, GraphQL | 1 / 1    | SI       |
-| BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    | SI       |
+| BugDB v1	                                     | Easy (2 / flag)		                               | Web, GraphQL | 1 / 1    | NO       |
+| BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    | NO       |
 
 ## ToDo
    * [x] iniziare
