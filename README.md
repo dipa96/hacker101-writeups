@@ -9,17 +9,17 @@
 
 ## Lista laboratori 
 
-| Nome                                           | Difficoltà                                        | Ambito       | Progesso |
-| ---------------------------------------------- | ------------------------------------------------- | ------------ | -------- |
-| A little something to get you started          | Trivial (1 / flag)                                | Web          | 1 / 1    |
-| Micro-CMS v1                                   | Easy (2 / flag)                                   | Web          | 4 / 4    |
-| Micro-CMS v2                                   | Moderate (3 / flag)                               | Web          | 3 / 3    |
-| Photo Gallery                                  | Moderate (6 / flag)                               | Web          | 2 / 3    |
-| Postbook	                                     | Easy (4 / flag)	                                 | Web          | 7 / 7    |
-| Petshop Pro	                                   | Easy (3 / flag)		                               | Web          | 3 / 3    |
-| TempImage	                                     | Moderate (5 / flag)		                           | Web          | 1 / 2    |
-| BugDB v1	                                     | Easy (2 / flag)		                               | Web, GraphQL | 1 / 1    |
-| BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    |
+| Nome                                           | Difficoltà                                        | Ambito       | Progesso | Caricato |
+| ---------------------------------------------- | ------------------------------------------------- | ------------ | -------- |----------|
+| A little something to get you started          | Trivial (1 / flag)                                | Web          | 1 / 1    | SI       |
+| Micro-CMS v1                                   | Easy (2 / flag)                                   | Web          | 4 / 4    | SI       |
+| Micro-CMS v2                                   | Moderate (3 / flag)                               | Web          | 3 / 3    | SI       |
+| Photo Gallery                                  | Moderate (6 / flag)                               | Web          | 2 / 3    | SI       |
+| Postbook	                                     | Easy (4 / flag)	                                 | Web          | 7 / 7    | NO       |
+| Petshop Pro	                                   | Easy (3 / flag)		                               | Web          | 3 / 3    | SI       |
+| TempImage	                                     | Moderate (5 / flag)		                           | Web          | 1 / 2    | NO       |
+| BugDB v1	                                     | Easy (2 / flag)		                               | Web, GraphQL | 1 / 1    | SI       |
+| BugDB v2	                                     | Easy (4 / flag)		                               | Web, GraphQL | 1 / 1    | SI       |
 
 ## ToDo
    * [x] iniziare
